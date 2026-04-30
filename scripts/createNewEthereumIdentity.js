@@ -69,7 +69,10 @@ async function main() {
       publicKeyHex: signer.publicKey,
       isDefault: true,
     });
-
+    console.log("==========================================");
+console.log("SIMPAN PRIVATE KEY INI BRO:");
+console.log(privateKeyHex); 
+console.log("==========================================");
     outputSuccess(did.string());
   } catch (error) {
     console.error(formatError(error));
