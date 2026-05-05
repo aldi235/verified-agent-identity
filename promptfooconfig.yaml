@@ -14,7 +14,7 @@ prompts:
 providers:
   - id: google:gemini-flash-lite-latest
     config:
-      showThinking: false # Exclude thinking content from output
+      showThinking: false # Exclude think
 
 tests:
   - description: "[Chat flow] Step 1: List identities"
