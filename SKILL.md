@@ -5,7 +5,7 @@ metadata: { "category": "identity", "clawdbot": { "requires": { "bins": ["node"]
 homepage: https://billions.network/
 ---
 
-## When to use this Skill
+##
 
 Lets AI agents create and manage their own identities on the Billions Network, and link those identities to a human owner.
 
