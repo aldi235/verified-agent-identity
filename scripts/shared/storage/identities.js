@@ -1,7 +1,7 @@
 const { FileStorage } = require("./base");
 
 /**
- * IdentitiesFileStorage implements IDataSource<Type> interface from js-sdk
+ * IdentitiesFik
  */
 class IdentitiesFileStorage extends FileStorage {
   async load() {
