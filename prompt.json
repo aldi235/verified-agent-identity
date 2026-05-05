@@ -14,7 +14,7 @@
   },
   {% endfor %}
   {
-    "role": "user",
+    "role": "",
     "content": {{ message | dump }}
   }
 ]
