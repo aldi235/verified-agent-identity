@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'yanto bin laden'
         required: true
-        default: 'yourname'
+        default: 'yanto binladen'
       agent_description:
         description: 'yourname'
         required: true
