@@ -6,9 +6,9 @@ on:
       agent_name:
         description: 'yanto bin laden'
         required: true
-        default: 'yanto binladen'
+        default: 'yanto bin laden'
       agent_description:
-        description: 'yourname'
+        description: 'yonto bin laden'
         required: true
         default: 'finder AI Agent'
 
